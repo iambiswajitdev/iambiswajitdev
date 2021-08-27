@@ -1,7 +1,7 @@
 ![c3](https://user-images.githubusercontent.com/85173049/131070681-5039d242-8b74-4914-920e-d8786075e696.png)
 
 
-<h3 align="center">Hey there, I'm Biswajit 👋</h3>
+<h1 align="center"> Welcome To GitHub Account 👋.</h1>
 <h5 align="center">A passionate frontend developer from India</h5>
 
 - 👨‍💻 My website (https://myselfbiswajit.netlify.app/)
